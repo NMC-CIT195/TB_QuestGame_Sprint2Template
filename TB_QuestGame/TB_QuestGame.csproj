@@ -7,8 +7,8 @@
     <ProjectGuid>{D0724317-6E8C-4AB7-96CB-5309B3A0CA04}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Project_TARDIS.S2_Starter</RootNamespace>
-    <AssemblyName>Project_TARDIS.S2_Starter</AssemblyName>
+    <RootNamespace>TB_QuestGame</RootNamespace>
+    <AssemblyName>TB_QuestGame</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
