@@ -35,16 +35,6 @@ namespace TB_QuestGame
             InitializeGame();
 
             //
-            // instantiate a Salesperson object
-            //
-            _gameTraveler = new Traveler();
-
-            //
-            // instantiate a ConsoleView object
-            //
-            _gameConsoleView = new ConsoleView(_gameTraveler, _gameUniverse);
-
-            //
             // begins running the application UI
             //
             ManageGameLoop();
